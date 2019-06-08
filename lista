@@ -45,6 +45,6 @@ http://server.brazuca.link/ab141/tracks-v1a1/mono.m3u8?token=fa2610a95d
 #EXTINF:-1, tvg-id="" tvg-name="50 Sombras liberadas 4K" tvg-logo="http//deluxeplay.live25461/images/sM8hwgWZlmZf0h4aOkNopb3HBIo_small.jpg" group-title="PelÃ­culas Ultra HD (4K)",50 Sombras liberadas 4K
 http://iptv.wtf:25461/movie/ktjgpblt/sRg9Qtz319/9739.mkv
 
-#EXTINF:0,GLOBO RIO
+#EXTINF:-1,GLOBO RIO
 http://cipl.xyz:8880/Juniomelorio/Sapato2019/16146
 
