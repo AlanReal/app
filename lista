@@ -2109,88 +2109,88 @@ http://demeter.lhmtv.gq/Servidor/lan/zacpr7.mp4?LHMTv
 #EXTINF:-1 tvg-logo="http://pictures.lhmtv.cf/logo/bonus.png" group-title="Sessao Bonus" ,Zootopia
 http://demeter.lhmtv.gq/Servidor/inf/zeceob.mp4?LHMTv
 
-#EXTINF:-1, tvg-id="    ALJAZEERA DOC" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e6/Al_Jazeera_Doc.png" tvg-name="    ALJAZEERA DOC"  group-title="ARABIC",    ALJAZEERA DOC
+#EXTINF:-1 tvg-id="    ALJAZEERA DOC" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e6/Al_Jazeera_Doc.png" tvg-name="    ALJAZEERA DOC"  group-title="ARABIC",    ALJAZEERA DOC
 http://aljazeera-doc-apple-live.adaptive.level3.net/apple/aljazeera/hq-doc/800kStream.m3u8
 
-#EXTINF:-1, tvg-id="    ALJAZEERA ENGLISH" tvg-logo="https://lut.im/gJNC2QyE5E/0H6qgfUBtws62l8j.png" tvg-name="    ALJAZEERA ENGLISH"  group-title="ARABIC",    ALJAZEERA ENGLISH
+#EXTINF:-1 tvg-id="    ALJAZEERA ENGLISH" tvg-logo="https://lut.im/gJNC2QyE5E/0H6qgfUBtws62l8j.png" tvg-name="    ALJAZEERA ENGLISH"  group-title="ARABIC",    ALJAZEERA ENGLISH
 http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index255.m3u8
 
-#EXTINF:-1, tvg-id="    AMAZON SAT" tvg-logo="https://lut.im/3pzwDPiAa2/b5lFOJ5g19hvjTDG.png" tvg-name="    AMAZON SAT"  group-title="CANAL ABERTO",    AMAZON SAT
+#EXTINF:-1 tvg-id="    AMAZON SAT" tvg-logo="https://lut.im/3pzwDPiAa2/b5lFOJ5g19hvjTDG.png" tvg-name="    AMAZON SAT"  group-title="CANAL ABERTO",    AMAZON SAT
 http://slrp.sambavideos.sambatech.com/liveevent/amazonsatabr1_3e9c859611a5e7fbedc785bd33c418b5/livestream3/chunklist.m3u8
 
-#EXTINF:-1, tvg-id="    Arirang" tvg-logo="http://logonoid.com/images/arirang-logo.png" tvg-name="    Arirang"  group-title="KOREA",    Arirang
+#EXTINF:-1 tvg-id="    Arirang" tvg-logo="http://logonoid.com/images/arirang-logo.png" tvg-name="    Arirang"  group-title="KOREA",    Arirang
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 
-#EXTINF:-1, tvg-id="    E-PARANÁ" tvg-logo="https://lut.im/8vKdYbyXez/OVc98UkvjPozTTS5.png" tvg-name="    E-PARANÁ"  group-title="CANAL ABERTO",    E-PARANÁ
+#EXTINF:-1 tvg-id="    E-PARANÁ" tvg-logo="https://lut.im/8vKdYbyXez/OVc98UkvjPozTTS5.png" tvg-name="    E-PARANÁ"  group-title="CANAL ABERTO",    E-PARANÁ
 http://200.189.113.201/hls/tve.m3u8
 
-#EXTINF:-1, tvg-id="    ESPN LATINA" tvg-logo="https://pbs.twimg.com/profile_images/489745412580843520/JFRrDdHL.png" tvg-name="    ESPN LATINA"  group-title="ESPORTES INTERNACIONAL",    ESPN LATINA
+#EXTINF:-1 tvg-id="    ESPN LATINA" tvg-logo="https://pbs.twimg.com/profile_images/489745412580843520/JFRrDdHL.png" tvg-name="    ESPN LATINA"  group-title="ESPORTES INTERNACIONAL",    ESPN LATINA
 http://80.80.160.168/live/6/live.m3u8
 
-#EXTINF:-1, tvg-id="    France 24" tvg-logo="http://127.0.0.1/" tvg-name="    France 24"  group-title="Noticias",    France 24
+#EXTINF:-1 tvg-id="    France 24" tvg-logo="http://127.0.0.1/" tvg-name="    France 24"  group-title="Noticias",    France 24
 http://f24hls-i.akamaihd.net:80/hls/live/221193/F24_EN_LO_HLS/master_900.m3u8
 
-#EXTINF:-1, tvg-id="    FRANCE 24" tvg-logo="https://lut.im/W3pGaGB2bv/2AtcC21ywagcfdvU.png" tvg-name="    FRANCE 24"  group-title="FRANÇA",    FRANCE 24
+#EXTINF:-1 tvg-id="    FRANCE 24" tvg-logo="https://lut.im/W3pGaGB2bv/2AtcC21ywagcfdvU.png" tvg-name="    FRANCE 24"  group-title="FRANÇA",    FRANCE 24
 http://f24hls-i.akamaihd.net/hls/live/221193/F24_EN_LO_HLS/master_900.m3u8
 
-#EXTINF:-1, tvg-id="    G2P TV" tvg-logo="https://lut.im/SOPtBc9rxD/a21WCnGZh58XW1Sb.png" tvg-name="    G2P TV"  group-title="CANAL ABERTO",    G2P TV
+#EXTINF:-1 tvg-id="    G2P TV" tvg-logo="https://lut.im/SOPtBc9rxD/a21WCnGZh58XW1Sb.png" tvg-name="    G2P TV"  group-title="CANAL ABERTO",    G2P TV
 http://srv3.zoeweb.tv:1935/z474-live/aovivo/livestream.m3u8
 
-#EXTINF:-1, tvg-id="    HISTORY LAB - ITÁLIA" tvg-logo="https://lut.im/SjANRk53Pp/eArS77PYT546O01N.png" tvg-name="    HISTORY LAB - ITÁLIA"  group-title="ITALIA",    HISTORY LAB - ITÁLIA
+#EXTINF:-1 tvg-id="    HISTORY LAB - ITÁLIA" tvg-logo="https://lut.im/SjANRk53Pp/eArS77PYT546O01N.png" tvg-name="    HISTORY LAB - ITÁLIA"  group-title="ITALIA",    HISTORY LAB - ITÁLIA
 http://wma10.fluidstream.net/HistoryLab/livestream/playlist.m3u8
 
-#EXTINF:-1, tvg-id="    Music Box" tvg-logo="http://127.0.0.1/" tvg-name="    Music Box"  group-title="Variedade e Musica",    Music Box
+#EXTINF:-1 tvg-id="    Music Box" tvg-logo="http://127.0.0.1/" tvg-name="    Music Box"  group-title="Variedade e Musica",    Music Box
 http://94.43.239.178:8080/CHANNEL470/BITRATE0/playlist.m3u8
 
-#EXTINF:-1, tvg-id="    National Geographic" tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/f/ff/National_Geographic_Society.png" tvg-name="    National Geographic"  group-title="DOCUMENTARIOS",    National Geographic
+#EXTINF:-1 tvg-id="    National Geographic" tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/f/ff/National_Geographic_Society.png" tvg-name="    National Geographic"  group-title="DOCUMENTARIOS",    National Geographic
 http://stmv1.srvstm.com:1935/tvcadm/tvcadm/live.m3u8
 
-#EXTINF:-1, tvg-id="    REDE GOSPEL" tvg-logo="https://lut.im/M6XzAMj8cC/hpRcOL0Jv7rvMGmH.png" tvg-name="    REDE GOSPEL"  group-title="RELIGIOSO",    REDE GOSPEL
+#EXTINF:-1 tvg-id="    REDE GOSPEL" tvg-logo="https://lut.im/M6XzAMj8cC/hpRcOL0Jv7rvMGmH.png" tvg-name="    REDE GOSPEL"  group-title="RELIGIOSO",    REDE GOSPEL
 http://media.igospel.com.br:1935/live/redegospel/waldo_paes.m3u8
 
-#EXTINF:-1, tvg-id="    REDE RCT" tvg-logo="http://oi66.tinypic.com/b7hxu0.jpg" tvg-name="    REDE RCT"  group-title="Canais Abertos",    REDE RCT
+#EXTINF:-1 tvg-id="    REDE RCT" tvg-logo="http://oi66.tinypic.com/b7hxu0.jpg" tvg-name="    REDE RCT"  group-title="Canais Abertos",    REDE RCT
 http://173.236.10.10:1935/rederct/rederct/playlist.m3u8
 
-#EXTINF:-1, tvg-id="    REDETV RONDÔNIA" tvg-logo="https://lut.im/xM59bKJyWh/wtncdEwp4NSPNkDB.png" tvg-name="    REDETV RONDÔNIA"  group-title="CANAL ABERTO",    REDETV RONDÔNIA
+#EXTINF:-1 tvg-id="    REDETV RONDÔNIA" tvg-logo="https://lut.im/xM59bKJyWh/wtncdEwp4NSPNkDB.png" tvg-name="    REDETV RONDÔNIA"  group-title="CANAL ABERTO",    REDETV RONDÔNIA
 http://173.236.10.10:1935/tvonline/tvonline/playlist.m3u8
 
-#EXTINF:-1, tvg-id="    RETRO MUSIC HD" tvg-logo="http://on-line-televize.cz/wp-content/uploads/2014/01/retromusic.png" tvg-name="    RETRO MUSIC HD"  group-title="Variedade e Musica",    RETRO MUSIC HD
+#EXTINF:-1 tvg-id="    RETRO MUSIC HD" tvg-logo="http://on-line-televize.cz/wp-content/uploads/2014/01/retromusic.png" tvg-name="    RETRO MUSIC HD"  group-title="Variedade e Musica",    RETRO MUSIC HD
 http://stream.mediawork.cz/retrotv//retrotvHQ1/playlist.m3u8
 
-#EXTINF:-1, tvg-id="    RT Documentary Channel" tvg-logo="http://127.0.0.1/" tvg-name="    RT Documentary Channel"  group-title="DOCUMENTARIOS",    RT Documentary Channel
+#EXTINF:-1 tvg-id="    RT Documentary Channel" tvg-logo="http://127.0.0.1/" tvg-name="    RT Documentary Channel"  group-title="DOCUMENTARIOS",    RT Documentary Channel
 http://RTCDN.api.visionip.tv/live/ASHTTP/rtcdn-rtcdn-doc-hsslive-25f-16x9-MB/playlist.m3u8
 
-#EXTINF:-1, tvg-id="    SBT PI (OCASIONAL)" tvg-logo="https://lut.im/aA6t9hY419/epL7xgiBiQTd8GNk.png" tvg-name="    SBT PI (OCASIONAL)"  group-title="CANAL ABERTO",    SBT PI (OCASIONAL)
+#EXTINF:-1 tvg-id="    SBT PI (OCASIONAL)" tvg-logo="https://lut.im/aA6t9hY419/epL7xgiBiQTd8GNk.png" tvg-name="    SBT PI (OCASIONAL)"  group-title="CANAL ABERTO",    SBT PI (OCASIONAL)
 http://192.99.46.182:1935/pioneira-tv3/pioneira-tv3/playlist.m3u8
 
-#EXTINF:-1, tvg-id="    Sky Italia" tvg-logo="http://127.0.0.1/" tvg-name="    Sky Italia"  group-title="Noticias",    Sky Italia
+#EXTINF:-1 tvg-id="    Sky Italia" tvg-logo="http://127.0.0.1/" tvg-name="    Sky Italia"  group-title="Noticias",    Sky Italia
 http://skyianywhere2-i.akamaihd.net:80/hls/live/200275/tg24/stream6/streamPlaylist.m3u8
 
-#EXTINF:-1, tvg-id="    TBS" tvg-logo="https://s31.postimg.org/hj4nfr0az/tbs.png" tvg-name="    TBS"  group-title="Filmes e Series",    TBS
+#EXTINF:-1 tvg-id="    TBS" tvg-logo="https://s31.postimg.org/hj4nfr0az/tbs.png" tvg-name="    TBS"  group-title="Filmes e Series",    TBS
 http://173.236.10.10:1935/dgrau/dgrau/live.m3u8
 
-#EXTINF:-1, tvg-id="    TV ALL SPORTS" tvg-logo="http://i.imgur.com/H4X2xiN.png" tvg-name="    TV ALL SPORTS"  group-title="Esportes",    TV ALL SPORTS
+#EXTINF:-1 tvg-id="    TV ALL SPORTS" tvg-logo="http://i.imgur.com/H4X2xiN.png" tvg-name="    TV ALL SPORTS"  group-title="Esportes",    TV ALL SPORTS
 http://173.236.10.10:1935/dgrau/dgrau/chunklist_w1543708272.m3u8
 
-#EXTINF:-1, tvg-id="    TV CLIMA" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/db5dc8d008c09f0c2be934ef760dcdad.png" tvg-name="    TV CLIMA"  group-title="DOCUMENTARIOS",    TV CLIMA
+#EXTINF:-1 tvg-id="    TV CLIMA" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/db5dc8d008c09f0c2be934ef760dcdad.png" tvg-name="    TV CLIMA"  group-title="DOCUMENTARIOS",    TV CLIMA
 http://stmv1.srvstm.com:1935/tvcadm/tvcadm/live.m3u8?wowzasessionid=656679665
 
-#EXTINF:-1, tvg-id="    TV CLIMA" tvg-logo="http://www.tvclima.com/images/logo_tv.png" tvg-name="    TV CLIMA"  group-title="MUSICA",    TV CLIMA
+#EXTINF:-1 tvg-id="    TV CLIMA" tvg-logo="http://www.tvclima.com/images/logo_tv.png" tvg-name="    TV CLIMA"  group-title="MUSICA",    TV CLIMA
 http://stmv1.euroti.com.br:1935/tvcadm/tvcadm/live.m3u8
 
-#EXTINF:-1, tvg-id="    TV FAAP" tvg-logo="http://www.faap.br/tvfaap/images/logo_tv.png" tvg-name="    TV FAAP"  group-title="CANAL ABERTO",    TV FAAP
+#EXTINF:-1 tvg-id="    TV FAAP" tvg-logo="http://www.faap.br/tvfaap/images/logo_tv.png" tvg-name="    TV FAAP"  group-title="CANAL ABERTO",    TV FAAP
 http://midia.faap.br:80/faaplatamlive-live/stream_720/livestream.m3u8
 
-#EXTINF:-1, tvg-id="    TV JAPI" tvg-logo="http://www.tvjapi.com.br/novo/templates/jsn_glamo_free/images/logo.png" tvg-name="    TV JAPI"  group-title="WEBTV",    TV JAPI
+#EXTINF:-1 tvg-id="    TV JAPI" tvg-logo="http://www.tvjapi.com.br/novo/templates/jsn_glamo_free/images/logo.png" tvg-name="    TV JAPI"  group-title="WEBTV",    TV JAPI
 http://wse3.player.tv.br:1935/tvjapi/tvjapi/playlist.m3u8
 
-#EXTINF:-1, tvg-id="    TV JORNAL LIMEIRA" tvg-logo="https://s17.postimg.org/af5r7n44f/tvjornal.png" tvg-name="    TV JORNAL LIMEIRA"  group-title="CANAL ABERTO",    TV JORNAL LIMEIRA
+#EXTINF:-1 tvg-id="    TV JORNAL LIMEIRA" tvg-logo="https://s17.postimg.org/af5r7n44f/tvjornal.png" tvg-name="    TV JORNAL LIMEIRA"  group-title="CANAL ABERTO",    TV JORNAL LIMEIRA
 http://flash1.crossdigital.com.br:1935/1998/1998/playlist.m3u8
 
-#EXTINF:-1, tvg-id="    TV Vitoria RECORD ES HD" tvg-logo="https://lut.im/44uGKRTU0x/96UUnFZAYBfXuppf.png" tvg-name="    TV Vitoria RECORD ES HD"  group-title="CANAL ABERTO",    TV Vitoria RECORD ES HD
+#EXTINF:-1 tvg-id="    TV Vitoria RECORD ES HD" tvg-logo="https://lut.im/44uGKRTU0x/96UUnFZAYBfXuppf.png" tvg-name="    TV Vitoria RECORD ES HD"  group-title="CANAL ABERTO",    TV Vitoria RECORD ES HD
 http://tvvitoria2.viacast.tv/livepl/tvvitoria_2_original.m3u8
 
-#EXTINF:-1, tvg-id="    TVE RS" tvg-logo="https://lut.im/nAKOTQRi7f/LsbdLvntn6zXlm9J.png" tvg-name="    TVE RS"  group-title="CANAL ABERTO",    TVE RS
+#EXTINF:-1 tvg-id="    TVE RS" tvg-logo="https://lut.im/nAKOTQRi7f/LsbdLvntn6zXlm9J.png" tvg-name="    TVE RS"  group-title="CANAL ABERTO",    TVE RS
 http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Lh464wc.jpg" group-title="Cine",ATRESSERIES
@@ -2355,3 +2355,131 @@ http://media.igospel.com.br:1935/live/redegospel/waldo_paes.m3u8
 #EXTINF:-1 tvg-logo="https://lut.im/sQatkv4K24/QgdTCYPgaqe7XVwn.jpg" group-title="ESPORTES", REAL MADRID TV HD
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
 
+#EXTINF:-1 tvg-logo="http://www.tvclima.com/images/logo_tv.png" group-title="MUSICA", TV CLIMA
+http://stmv1.euroti.com.br:1935/tvcadm/tvcadm/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://lut.im/0mgJIxRRyw/PYRS4ya5VmztTPhY.png" group-title="EUA", CBS NEWS HD (KODI)
+http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/index_700_av-p.m3u8
+
+#EXTINF:-1 tvg-logo="http://logonoid.com/images/arirang-logo.png" group-title="KOREA", Arirang
+http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://lut.im/SjANRk53Pp/eArS77PYT546O01N.png" group-title="ITALIA", HISTORY LAB - ITÁLIA
+http://wma10.fluidstream.net/HistoryLab/livestream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://lut.im/dQazgxpX16/7Zu0po6dOt8brqVT.png" group-title="ALEMANHA", DW HD
+http://dwstream5-lh.akamaihd.net/i/dwstream5_live@124540/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://lut.im/W3pGaGB2bv/2AtcC21ywagcfdvU.png" group-title="FRANÇA", FRANCE 24
+http://f24hls-i.akamaihd.net/hls/live/221193/F24_EN_LO_HLS/master_900.m3u8
+
+#EXTINF:-1 tvg-logo="https://lut.im/gJNC2QyE5E/0H6qgfUBtws62l8j.png" group-title="ARABIC", ALJAZEERA ENGLISH
+http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index255.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e6/Al_Jazeera_Doc.png" group-title="ARABIC", ALJAZEERA DOC
+http://aljazeera-doc-apple-live.adaptive.level3.net/apple/aljazeera/hq-doc/800kStream.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.faap.br/tvfaap/images/logo_tv.png" group-title="CANAL ABERTO", TV FAAP
+http://midia.faap.br:80/faaplatamlive-live/stream_720/livestream.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.tvjapi.com.br/novo/templates/jsn_glamo_free/images/logo.png" group-title="WEBTV",TV JAPI
+http://wse3.player.tv.br:1935/tvjapi/tvjapi/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://s17.postimg.org/af5r7n44f/tvjornal.png" group-title="CANAL ABERTO",TV JORNAL LIMEIRA
+http://flash1.crossdigital.com.br:1935/1998/1998/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://oi66.tinypic.com/b7hxu0.jpg"group-title="Canais Abertos",REDE RCT
+http://173.236.10.10:1935/rederct/rederct/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://s31.postimg.org/hj4nfr0az/tbs.png" group-title="Filmes e Series",TBS
+http://173.236.10.10:1935/dgrau/dgrau/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/H4X2xiN.png" group-title="Esportes", TV ALL SPORTS
+http://173.236.10.10:1935/dgrau/dgrau/chunklist_w1543708272.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/489745412580843520/JFRrDdHL.png" group-title="ESPORTES INTERNACIONAL",ESPN LATINA
+http://80.80.160.168/live/6/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://images.all-free-download.com/images/graphicthumb/fox_sports_net_65111.jpg" group-title="ESPORTES INTERNACIONAL",Sport Net
+http://nlds187.cdnak.neulion.com/nlds/sportsnetnow/sn_360/as/live/sn_360_hd_ipad.m3u8
+
+#EXTINF:-1 tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/f/ff/National_Geographic_Society.png" group-title="DOCUMENTARIOS",National Geographic
+http://stmv1.srvstm.com:1935/tvcadm/tvcadm/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/db5dc8d008c09f0c2be934ef760dcdad.png"group-title="DOCUMENTARIOS",TV CLIMA
+http://stmv1.srvstm.com:1935/tvcadm/tvcadm/live.m3u8?wowzasessionid=656679665
+
+#EXTINF:-1 tvg-logo="" group-title="DOCUMENTARIOS", RT Documentary Channel
+http://RTCDN.api.visionip.tv/live/ASHTTP/rtcdn-rtcdn-doc-hsslive-25f-16x9-MB/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://on-line-televize.cz/wp-content/uploads/2014/01/retromusic.png" group-title="Variedade e Musica", RETRO MUSIC HD
+http://stream.mediawork.cz/retrotv//retrotvHQ1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1769365573/image.jpg" group-title="Variedade e Musica", Hot Music
+http://wow01.105.net/live/rmc1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://logos.kodibg.org/1hd.png"group-title="Variedade e Musica",1 HD MUSIC
+http://80.250.191.10:1935/live/livestream3/playlist.m3u8
+
+#EXTINF:-1 tvg-logo=="https://upload.wikimedia.org/wikipedia/commons/6/6e/Music_Box_Logo.png" group-title="Variedade e Musica" , Music Box
+http://94.43.239.178:8080/CHANNEL470/BITRATE0/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://4vector.com/i/free-vector-cnn-logo_092046_CNN_logo.png" group-title="Noticias",CNN HD
+http://bcliveuniv-lh.akamaihd.net:80/i/news_1@194050/index_900_av-b.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Noticias",France 24
+http://f24hls-i.akamaihd.net:80/hls/live/221193/F24_EN_LO_HLS/master_900.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Noticias",Sky Italia
+http://skyianywhere2-i.akamaihd.net:80/hls/live/200275/tg24/stream6/streamPlaylist.m3u8
+
+#EXTINF:-1 tvg-logo="https://lut.im/aA6t9hY419/epL7xgiBiQTd8GNk.png" group-title="CANAL ABERTO",SBT PI[COLOR orange](ON)[/COLOR]
+http://192.99.46.182:1935/pioneira-tv3/pioneira-tv3/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/logos/recordtv.png" group-title="CANAL ABERTO", RECORD (opção 02) [COLOR orange](ON)[/COLOR]
+http://tvvitoria2.viacast.tv/livepl/tvvitoria_2_original.m3u8
+
+#EXTINF:-1 tvg-logo="https://lut.im/44uGKRTU0x/96UUnFZAYBfXuppf.png" group-title="CANAL ABERTO", TV VITORIA RECORD ES HD [COLOR orange](ON)[/COLOR]
+http://tvvitoria2.viacast.tv/livepl/tvvitoria_2_original.m3u8
+
+#EXTINF:-1 tvg-logo="http://rederecord.r7.com/files/2011/08/recordHD1.jpg" group-title="canal aberto", RECORD HD [COLOR orange](ON)[/COLOR]
+http://tvvitoria2.viacast.tv/livepl/tvvitoria_2_original.m3u8
+
+#EXTINF:-1 tvg-logo="http://rederecord.r7.com/files/2011/08/recordHD1.jpg" group-title="canal aberto" , RECORD (AM) [COLOR orange](ON)[/COLOR]
+http://klive-a.akamaihd.net/dc-0/live/hls/p/2143012/e/0_dm4rwkh4/t/BEPMXlN7c-EKVDYFPMUGzg/index-s32-v1-a1.m3u8
+
+#EXTINF:-1 tvg-logo="http://famososnaweb.com/wp-content/uploads/2014/06/Logo-G-Gazeta-2014-e1394566177583.jpg" group-title="Canais Abertos",TV GAZETA [COLOR orange](ON)[/COLOR]
+http://api.new.livestream.com:80/accounts/5381476/events/2395418/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/logos/tvgazeta.png" group-title="CANAL ABERTO", TV GAZETA HD [COLOR orange](ON)[/COLOR]
+http://api.new.livestream.com/accounts/5381476/events/2395418/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/m7orza8x9/TV_Cultura.png" group-title="TV Aberta",TV CULTURA PA [COLOR orange](ON)[/COLOR]
+http://177.74.1.38/funtelpa/tv_funtelpa/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://s11.postimg.org/l4gjn0o4j/TV_Di_rio_do_Sert_o.png" group-title="TV Aberta",TV DIARIO DO SERTÃO [COLOR orange](ON)[/COLOR]
+http://painelvj.com.br:1935/pdsertaotv/pdsertaotv.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://lut.im/4LeikAY7IP/CmMDuTuJ9MVPbJIc.png" group-title="CANAL ABERTO", REDE BRASIL [COLOR orange](ON)[/COLOR]
+http://173.236.10.10:1935/rbtv/rbtv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/lgw1ti6jx/TV_Brasil.png" group-title="TV Aberta",TV BRASIL [COLOR orange](ON)[/COLOR]
+http://stream2.ba.gov.br:80/hls-live/livepkgr/_definst_/irdeb/pgm-2.m3u8
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/lgw1ti6jx/TV_Brasil.png" group-title="TV Aberta",TV BRASIL HD [COLOR orange](ON)[/COLOR]
+http://liveabr2.sambatech.com.br/abr/tvtabr_56fc38e9793ca9941f5203fab6e01263/livestream.m3u8
+
+#EXTINF:-1 tvg-logo="http://s16.postimg.org/axul05l4l/TV_Paran.jpg" group-title="TV Aberta",TV PARANÁ [COLOR orange](ON)[/COLOR]
+http://200.189.113.201/hls/tve.m3u8
+
+#EXTINF:-1 tvg-logo="https://lut.im/nAKOTQRi7f/LsbdLvntn6zXlm9J.png" group-title="CANAL ABERTO", TVE RS [COLOR orange](ON)[/COLOR]
+http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://lut.im/8vKdYbyXez/OVc98UkvjPozTTS5.png" group-title="CANAL ABERTO", E-PARANÁ [COLOR orange](ON)[/COLOR]
+http://200.189.113.201/hls/tve.m3u8
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/jl02qv2y5/tvfaap.png" group-title="TV Aberta",TV FAAP [COLOR orange](ON)[/COLOR]
+http://midia.faap.br/faaplatamlive-live/stream_480/livestream.m3u8
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/jl02qv2y5/tvfaap.png" group-title="TV Aberta",TV FAAP HD [COLOR orange](ON)[/COLOR]
+http://midia.faap.br:80/faaplatamlive-live/stream_720/livestream.m3u8
